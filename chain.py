@@ -7,7 +7,7 @@ from slackclient import SlackClient
 
 
 BOT_TOKEN = "xoxb-2391487812689-2385081235460-IsEBa6jXoaIaTBji9qjFmBin"
-GROUP_TOKEN = "slack user API token"
+GROUP_TOKEN = "E4DIfnkE17E3EKbRPWjiO8Gu"
 
 MESSAGE_QUERY = "from:username in:general"
 MESSAGE_PAGE_SIZE = 100

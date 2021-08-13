@@ -6,7 +6,7 @@ import time
 from slackclient import SlackClient
 
 
-BOT_TOKEN = "bot user API token"
+BOT_TOKEN = "xoxb-503928118403-2375314026629-omKO2uovLQe8HtdBS4Kij0r6"
 GROUP_TOKEN = "slack user API token"
 
 MESSAGE_QUERY = "from:username_to_parrot"

@@ -1,5 +1,2 @@
-json
-time
 markovify
-re
-SlackClient
+slackclient

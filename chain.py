@@ -6,10 +6,10 @@ import time
 from slackclient import SlackClient
 
 
-BOT_TOKEN = "xoxb-503928118403-2375314026629-omKO2uovLQe8HtdBS4Kij0r6"
+BOT_TOKEN = "xoxb-2391487812689-2385081235460-IsEBa6jXoaIaTBji9qjFmBin"
 GROUP_TOKEN = "slack user API token"
 
-MESSAGE_QUERY = "from:username_to_parrot"
+MESSAGE_QUERY = "from:username in:general"
 MESSAGE_PAGE_SIZE = 100
 DEBUG = True
 
